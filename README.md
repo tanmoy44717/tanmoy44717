@@ -22,6 +22,10 @@ I am a developer focused on **Automation, AI, and Innovation**. I don't just wri
 * 🎨 **Visuals:** Creating 3D particle systems using **Three.js**.
 * 🛡️ **Security:** Exploring penetration testing with Termux tools.
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/01/f9/57/01f9578635c93717551046890f5b90f4.gif" width="100%" style="border-radius: 15px; border: 2px solid #FF9800; margin-top: 20px;" alt="Goku Power Up" />
+</div>
+
 ---
 
 ### 🐍 Contribution Snake Game
