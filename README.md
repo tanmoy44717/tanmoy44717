@@ -1,15 +1,12 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/Xw170S7yVukAAAAC/broly-dragon-ball-super.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;" alt="Dragon Ball Super Broly" />
-
+  <h1 align="center">Hi 👋, I'm Tanmoy</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Tanmoy;Building+JARVIS+in+Python;Creator:+Satch+Ka+Switch;Stark+OS+Interface+Designer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&center=true&vCenter=true&width=435&lines=Building+JARVIS+in+Python;Creator:+Satch+Ka+Switch;Stark+OS+Interface+Designer;Super+Saiyan+Developer" alt="Typing Animation" />
   </a>
 
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanmoy44717&theme=flat&no-frame=true&margin-w=15&row=1" alt="GitHub Trophy" />
-  </a>
+  <img src="https://media1.tenor.com/m/fXHaAkpTzZMAAAAC/goku-super-saiyan.gif" width="100%" style="border-radius: 15px; border: 2px solid #ff9800; margin-bottom: 20px;" alt="Goku Transformation" />
   <br/>
 
 </div>
@@ -28,6 +25,13 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
 
 ---
 
+### 🐍 Contribution Snake Game
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tanmoy44717/tanmoy44717/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+---
+
 ### 🛠️ The Arsenal
 
 <div align="center">
@@ -42,23 +46,6 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
 </div>
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tanmoy44717&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy44717&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="150" />
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tanmoy44717/tanmoy44717/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
-
-<br/>
 
 ### 🤝 Connect with Me
 
